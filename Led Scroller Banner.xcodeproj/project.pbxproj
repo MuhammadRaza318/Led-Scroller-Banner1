@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		753C9BED2CBFE00C008CAF5A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 753C9BCB2CBFE00A008CAF5A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 753C9BD22CBFE00A008CAF5A;
+			remoteInfo = "Led Scroller Banner";
+		};
+		753C9BF72CBFE00C008CAF5A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 753C9BCB2CBFE00A008CAF5A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 753C9BD22CBFE00A008CAF5A;
+			remoteInfo = "Led Scroller Banner";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		753C9BD32CBFE00A008CAF5A /* Led Scroller Banner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Led Scroller Banner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		753C9BEC2CBFE00C008CAF5A /* Led Scroller BannerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Led Scroller BannerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		753C9BF62CBFE00C008CAF5A /* Led Scroller BannerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Led Scroller BannerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		753C9BFE2CBFE00C008CAF5A /* Exceptions for "Led Scroller Banner" folder in "Led Scroller Banner" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 753C9BD22CBFE00A008CAF5A /* Led Scroller Banner */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		753C9BD52CBFE00A008CAF5A /* Led Scroller Banner */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				753C9BFE2CBFE00C008CAF5A /* Exceptions for "Led Scroller Banner" folder in "Led Scroller Banner" target */,
+			);
+			path = "Led Scroller Banner";
+			sourceTree = "<group>";
+		};
+		753C9BEF2CBFE00C008CAF5A /* Led Scroller BannerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Led Scroller BannerTests";
+			sourceTree = "<group>";
+		};
+		753C9BF92CBFE00C008CAF5A /* Led Scroller BannerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Led Scroller BannerUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		753C9BD02CBFE00A008CAF5A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		753C9BE92CBFE00C008CAF5A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		753C9BF32CBFE00C008CAF5A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		753C9BCA2CBFE00A008CAF5A = {
+			isa = PBXGroup;
+			children = (
+				753C9BD52CBFE00A008CAF5A /* Led Scroller Banner */,
+				753C9BEF2CBFE00C008CAF5A /* Led Scroller BannerTests */,
+				753C9BF92CBFE00C008CAF5A /* Led Scroller BannerUITests */,
+				753C9BD42CBFE00A008CAF5A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		753C9BD42CBFE00A008CAF5A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				753C9BD32CBFE00A008CAF5A /* Led Scroller Banner.app */,
+				753C9BEC2CBFE00C008CAF5A /* Led Scroller BannerTests.xctest */,
+				753C9BF62CBFE00C008CAF5A /* Led Scroller BannerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		753C9BD22CBFE00A008CAF5A /* Led Scroller Banner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 753C9BFF2CBFE00C008CAF5A /* Build configuration list for PBXNativeTarget "Led Scroller Banner" */;
+			buildPhases = (
+				753C9BCF2CBFE00A008CAF5A /* Sources */,
+				753C9BD02CBFE00A008CAF5A /* Frameworks */,
+				753C9BD12CBFE00A008CAF5A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				753C9BD52CBFE00A008CAF5A /* Led Scroller Banner */,
+			);
+			name = "Led Scroller Banner";
+			packageProductDependencies = (
+			);
+			productName = "Led Scroller Banner";
+			productReference = 753C9BD32CBFE00A008CAF5A /* Led Scroller Banner.app */;
+			productType = "com.apple.product-type.application";
+		};
+		753C9BEB2CBFE00C008CAF5A /* Led Scroller BannerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 753C9C042CBFE00C008CAF5A /* Build configuration list for PBXNativeTarget "Led Scroller BannerTests" */;
+			buildPhases = (
+				753C9BE82CBFE00C008CAF5A /* Sources */,
+				753C9BE92CBFE00C008CAF5A /* Frameworks */,
+				753C9BEA2CBFE00C008CAF5A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				753C9BEE2CBFE00C008CAF5A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				753C9BEF2CBFE00C008CAF5A /* Led Scroller BannerTests */,
+			);
+			name = "Led Scroller BannerTests";
+			packageProductDependencies = (
+			);
+			productName = "Led Scroller BannerTests";
+			productReference = 753C9BEC2CBFE00C008CAF5A /* Led Scroller BannerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		753C9BF52CBFE00C008CAF5A /* Led Scroller BannerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 753C9C072CBFE00C008CAF5A /* Build configuration list for PBXNativeTarget "Led Scroller BannerUITests" */;
+			buildPhases = (
+				753C9BF22CBFE00C008CAF5A /* Sources */,
+				753C9BF32CBFE00C008CAF5A /* Frameworks */,
+				753C9BF42CBFE00C008CAF5A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				753C9BF82CBFE00C008CAF5A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				753C9BF92CBFE00C008CAF5A /* Led Scroller BannerUITests */,
+			);
+			name = "Led Scroller BannerUITests";
+			packageProductDependencies = (
+			);
+			productName = "Led Scroller BannerUITests";
+			productReference = 753C9BF62CBFE00C008CAF5A /* Led Scroller BannerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		753C9BCB2CBFE00A008CAF5A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					753C9BD22CBFE00A008CAF5A = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					753C9BEB2CBFE00C008CAF5A = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 753C9BD22CBFE00A008CAF5A;
+					};
+					753C9BF52CBFE00C008CAF5A = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 753C9BD22CBFE00A008CAF5A;
+					};
+				};
+			};
+			buildConfigurationList = 753C9BCE2CBFE00A008CAF5A /* Build configuration list for PBXProject "Led Scroller Banner" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 753C9BCA2CBFE00A008CAF5A;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 753C9BD42CBFE00A008CAF5A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				753C9BD22CBFE00A008CAF5A /* Led Scroller Banner */,
+				753C9BEB2CBFE00C008CAF5A /* Led Scroller BannerTests */,
+				753C9BF52CBFE00C008CAF5A /* Led Scroller BannerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		753C9BD12CBFE00A008CAF5A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		753C9BEA2CBFE00C008CAF5A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		753C9BF42CBFE00C008CAF5A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		753C9BCF2CBFE00A008CAF5A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		753C9BE82CBFE00C008CAF5A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		753C9BF22CBFE00C008CAF5A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		753C9BEE2CBFE00C008CAF5A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 753C9BD22CBFE00A008CAF5A /* Led Scroller Banner */;
+			targetProxy = 753C9BED2CBFE00C008CAF5A /* PBXContainerItemProxy */;
+		};
+		753C9BF82CBFE00C008CAF5A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 753C9BD22CBFE00A008CAF5A /* Led Scroller Banner */;
+			targetProxy = 753C9BF72CBFE00C008CAF5A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		753C9C002CBFE00C008CAF5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MFCL5NRH9V;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Led Scroller Banner/Info.plist";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Take Photo Save";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gameview.Chineselearning;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		753C9C012CBFE00C008CAF5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MFCL5NRH9V;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Led Scroller Banner/Info.plist";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Take Photo Save";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gameview.Chineselearning;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		753C9C022CBFE00C008CAF5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		753C9C032CBFE00C008CAF5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		753C9C052CBFE00C008CAF5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mraza.Led-Scroller-BannerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Led Scroller Banner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Led Scroller Banner";
+			};
+			name = Debug;
+		};
+		753C9C062CBFE00C008CAF5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mraza.Led-Scroller-BannerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Led Scroller Banner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Led Scroller Banner";
+			};
+			name = Release;
+		};
+		753C9C082CBFE00C008CAF5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mraza.Led-Scroller-BannerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Led Scroller Banner";
+			};
+			name = Debug;
+		};
+		753C9C092CBFE00C008CAF5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mraza.Led-Scroller-BannerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Led Scroller Banner";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		753C9BCE2CBFE00A008CAF5A /* Build configuration list for PBXProject "Led Scroller Banner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				753C9C022CBFE00C008CAF5A /* Debug */,
+				753C9C032CBFE00C008CAF5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		753C9BFF2CBFE00C008CAF5A /* Build configuration list for PBXNativeTarget "Led Scroller Banner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				753C9C002CBFE00C008CAF5A /* Debug */,
+				753C9C012CBFE00C008CAF5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		753C9C042CBFE00C008CAF5A /* Build configuration list for PBXNativeTarget "Led Scroller BannerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				753C9C052CBFE00C008CAF5A /* Debug */,
+				753C9C062CBFE00C008CAF5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		753C9C072CBFE00C008CAF5A /* Build configuration list for PBXNativeTarget "Led Scroller BannerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				753C9C082CBFE00C008CAF5A /* Debug */,
+				753C9C092CBFE00C008CAF5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 753C9BCB2CBFE00A008CAF5A /* Project object */;
+}

@@ -16,7 +16,7 @@ class ViewController: UIViewController  ,UIImagePickerControllerDelegate, UINavi
     @IBOutlet var ledBannerText: UITextField!
     private var isScrollingPaused = false
     private var isLeftToRight = false
-    // MARK: -
+    // MARK: - OutLet......
     private var scrollingDuration: Double = 10.0
     @IBOutlet var cDataView: UIView!
     @IBOutlet var ledBannerCollectionV: UICollectionView!

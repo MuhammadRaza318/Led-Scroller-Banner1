@@ -7,12 +7,14 @@
 
 import UIKit
 import StoreKit
+// Changing
+
 
 class PurchaseViewController: UIViewController ,  SKProductsRequestDelegate, SKPaymentTransactionObserver {
     @IBOutlet weak var priceLabel: UILabel!
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
        
-    ////c
+    
     var product: SKProduct?
     
     override func viewDidLoad() {
